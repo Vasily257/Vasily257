@@ -12,6 +12,3 @@
   
 #### My statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasily257)](https://github.com/anuraghazra/github-readme-stats)
-
-#### My successes in codewar
-[![codewars](https://www.codewars.com/users/VasilyKalmykov/badges/large)](https://www.codewars.com/users/VasilyKalmykov)   
