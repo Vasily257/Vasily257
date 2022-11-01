@@ -31,6 +31,6 @@
 #### My contacts
 <div>
   <a href="https://t.me/Vasily_Kalmykov">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
