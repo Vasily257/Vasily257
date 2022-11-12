@@ -1,6 +1,6 @@
 ### Hi there, I'am Vasya! 👋
 
-:pencil2: I'm currently studying at Ya.Practicum for a web developer.  
+:pencil2: I'm currently creating web projects.  
   
 :family: I’m looking to collaborate on a project that is really useful to people.  
   
