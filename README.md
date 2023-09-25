@@ -1,8 +1,8 @@
 ### Hi there, I'm Vasya! 👋
 
-:pencil2: I am front-end developer.  
+:bug: I'm a front-end developer.  
   
-:family: I am working on a project that helps to make joint purchases.  
+:straight_ruler: I work as a layout designer and I love it.  
   
 :question: Ask me about separate waste collection and run before I start answering.  
   
@@ -10,9 +10,6 @@
   
 ---
   
-#### My statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasily257)](https://github.com/anuraghazra/github-readme-stats) 
-
 #### My stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
@@ -30,6 +27,9 @@
 #### My contacts
 <div>
   <a href="https://t.me/Vasily_Kalmykov">
-    <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vasilykalmykov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
