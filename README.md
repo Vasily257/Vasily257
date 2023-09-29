@@ -2,7 +2,7 @@
 
 :bug: I'm a front-end developer.  
   
-:straight_ruler: I work as a layout designer and I love it.  
+:straight_ruler: I'm that front-end developer who is crazy about layout.  
   
 :question: Ask me about separate waste collection and run before I start answering.  
   
